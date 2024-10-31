@@ -11,3 +11,5 @@ def foo() -> Optional[int]:
     else:
         # return None
         return None
+
+print(foo())
